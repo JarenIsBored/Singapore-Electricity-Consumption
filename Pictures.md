@@ -1,10 +1,10 @@
 ### Program Visuals
 
 #### Data Info
-![data info](mcapp/normal.jpg)
+![data info](cpps/datainfo.png)
 
 #### Menu1(function 1)
-![Microcontroller Back](mcapp/back.jpg)
+![Menu1](mcapp/back.jpg)
 
 #### Menu(function 2)
 ![Normal Operation](mcapp/normal.jpg)
