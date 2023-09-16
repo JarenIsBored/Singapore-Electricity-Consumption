@@ -4,16 +4,16 @@
 ![data info](cpps/datainfo.png)
 
 #### Menu1(function 1)
-![Menu1](mcapp/back.jpg)
+![Menu1](cpps/Menu1.png)
 
-#### Menu(function 2)
-![Normal Operation](mcapp/normal.jpg)
+#### Menu2(function 2)
+![Menu2](cpps/Menu2.png)
 
-#### Menu(function 3)
-![Normal Operation](mcapp/normal.jpg)
+#### Menu3(function 3)
+![Menu3](cpps/Menu3.png)
 
 #### Plot1(function 4)
-![Manual Operation](mcapp/manual.jpg)
+![Plot1](cpps/Plot1.png)
 
 #### Plot2(function 4)
-![Manual Operation](mcapp/manual.jpg)
+![Plot2](cpps/Plot2.png)
