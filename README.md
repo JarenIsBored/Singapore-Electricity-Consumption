@@ -31,5 +31,4 @@ The software features of the project include:
 
 - Data processing and manipulation.
 - Calculation of statistics, such as averages and maximum values.
-- Detection of monthly consumption changes.
 - Plotting data using Python libraries.
